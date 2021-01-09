@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 - 🔭 I’m currently working on A Chat Application and a Movie Streaming platform...
 - 🌱 I’m currently learning more about React & VueJs...
@@ -40,6 +42,10 @@ Here are some ideas to get you started:
 <!--- 😄 Pronouns: ... --->
 - ⚡ Fun fact: I code and listen to music every single day.
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 **Languages and Tools:**  
 
@@ -53,7 +59,15 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 [![Majesty's github stats](https://github-readme-stats.vercel.app/api?username=majestyjnr)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majestyjnr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
