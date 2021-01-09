@@ -56,13 +56,18 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 <br/>
-<br/>
 
 [![Majesty's github stats](https://github-readme-stats.vercel.app/api?username=majestyjnr)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majestyjnr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<br/>
+
+<div align="center">
+
+### Show some  ❤️  by starring some of the repositories and following me as we collaborate to make the world a better place with the use of TECHNOLOGY!
+
+</div>
