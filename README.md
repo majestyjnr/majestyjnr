@@ -31,14 +31,27 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on A Chat Application and a Movie Streaming platform...
 - 🌱 I’m currently learning more about React & VueJs...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on building innovative projects...
 - 🤔 I’m looking for help with Artificial Intelligence...
 - 💬 Ask me about anything programming ⚡😄
 - 📫 How to reach me: [Twitter - @onesolojnr](https://twitter.com/onesolojnr), [Instagram - @majesty.jnr](https://instagram.com/majesty.jnr)
 <!--- 😄 Pronouns: ... --->
 - ⚡ Fun fact: I code and listen to music every single day.
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 [![Majesty's github stats](https://github-readme-stats.vercel.app/api?username=majestyjnr)](https://github.com/anuraghazra/github-readme-stats)
 
