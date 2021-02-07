@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/onesolojnr">
   <img align="left" alt="Majesty's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/imthepk">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
+
 <a href="https://github.com/majestyjnr">
   <img align="left" alt="Majesty's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 <br/>
 
 - 🔭 I’m currently working on A Chat Application and a Movie Streaming platform...
-- 🌱 I’m currently learning more about React & VueJs...
+- 🌱 I’m currently learning more about ReactJs...
 - 👯 I’m looking to collaborate on building innovative projects...
 - 🤔 I’m looking for help with Artificial Intelligence...
 - 💬 Ask me about anything programming ⚡😄
