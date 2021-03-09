@@ -58,11 +58,11 @@ Here are some ideas to get you started::
 
 <br/>
 
-[![Majesty's github stats](https://github-readme-stats.vercel.app/api?username=majestyjnr)](https://github.com/anuraghazra/github-readme-stats)
+[![Majesty's github stats](https://github-readme-stats.vercel.app/api?username=majestyjnr)](https://developer-majesty.herokuapp.com)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majestyjnr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majestyjnr)](https://developer-majesty.herokuapp.com)
 
 
 <br/>
