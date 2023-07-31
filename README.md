@@ -31,9 +31,7 @@ Here are some ideas to get you started::
 <br/>
 
 - 🔭 I’m currently working on lots of projects currently...
-- 🌱 I’m currently learning more about [React.js](https://github.com/facebook/react) and [React Native](https://github.com/facebook/react-native)
 - 👯 I’m looking to collaborate on building innovative projects...
-- 🤔 I’m looking for help with Artificial Intelligence...
 - 💬 Ask me about anything programming ⚡😄
 - 📫 How to reach me: [Twitter - @onesolojnr](https://twitter.com/onesolojnr), [Instagram - @majesty.jnr](https://instagram.com/majesty.jnr)
 <!--- 😄 Pronouns: ... --->
@@ -52,14 +50,13 @@ Here are some ideas to get you started::
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
 <br/>
 
-[![Majesty's github stats](https://github-readme-stats.vercel.app/api?username=majestyjnr)](https://developer-majesty.herokuapp.com)
+[![Majesty's github stats](https://github-readme-stats.vercel.app/api?username=majestyjnr)]
 
 <br/>
 
