@@ -9,15 +9,9 @@ Here are some ideas to get you started::
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majestyjnr&label=Views&color=blue&style=plastic" alt="majestyjnr" /> </p>
 
-
-
 <br/>
-<br/>
-
 <!--- 😄 Pronouns: ... --->
 - ⚡ Fun fact: I code and listen to music every single day.
-
-<br/>
 <br/>
 
 **<h1>My Skills:</h1>**  
