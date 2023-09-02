@@ -9,31 +9,11 @@ Here are some ideas to get you started::
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majestyjnr&label=Views&color=blue&style=plastic" alt="majestyjnr" /> </p>
 
-<a href="https://twitter.com/onesolojnr">
-  <img align="left" alt="Developer Majesty's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 
-
-<a href="https://github.com/majestyjnr">
-  <img align="left" alt="Developer Majesty's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/MajestyA100">
-  <img align="left" alt="Developer Majesty's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/majesty.jnr/">
-  <img align="left" alt="Developer Majesty's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/DeveloperMajesty/">
-  <img align="left" alt="Developer Majesty's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 <br/>
 <br/>
 
-- 🔭 I’m currently working on lots of projects currently...
-- 👯 I’m looking to collaborate on building innovative projects...
-- 💬 Ask me about anything programming ⚡😄
-- 📫 How to reach me: [Twitter - @onesolojnr](https://twitter.com/onesolojnr), [Instagram - @majesty.jnr](https://instagram.com/majesty.jnr)
 <!--- 😄 Pronouns: ... --->
 - ⚡ Fun fact: I code and listen to music every single day.
 
