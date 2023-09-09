@@ -14,9 +14,6 @@ Here are some ideas to get you started::
 - ⚡ Fun fact: I code and listen to music every single day.
 <br/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
-
-<br/>
 <br/>
 
 **<h1>My Skills:</h1>**  
