@@ -9,12 +9,12 @@ Here are some ideas to get you started::
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majestyjnr&label=Views&color=blue&style=plastic" alt="majestyjnr" /> </p>
 
 <br/>
-<br/>
 <!--- 😄 Pronouns: ... --->
 - ⚡ Fun fact: I code and listen to music every single day.
 <br/>
 
 <br/>
+<div align="center"><img alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/></div>
 
 **<h1>My Skills:</h1>**  
 
