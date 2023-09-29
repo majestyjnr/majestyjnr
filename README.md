@@ -36,9 +36,3 @@ Here are some ideas to get you started::
 
 
 <br/>
-
-<div align="center">
-
-### Show some  ❤️  by starring some of the repositories and following me as we collaborate to make the world a better place with the use of TECHNOLOGY!
-
-</div>
