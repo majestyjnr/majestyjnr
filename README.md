@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Developer Majesty. Welcome to my Github profile ❤️ 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=majestyjnr&label=Views&color=blue&style=plastic" alt="majestyjnr" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=majestyjnr&label=Views&color=blue&style=plastic" alt="majestyjnr" /></p>
 
 <br/>
 <!--- 😄 Pronouns: ... --->
