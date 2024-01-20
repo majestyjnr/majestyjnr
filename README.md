@@ -86,9 +86,14 @@
           <img height="70" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
         </a>
       </td>
+	<td align="center">
+        <a href="https://tailwindcss.com/">
+          <img height="70" src="https://raw.githubusercontent.com/github/explore/261c2cda92d09ccad6f8b2dc91af32a2a5856989/topics/tailwind/tailwind.png" />
+        </a>
+      </td>
     </tr>
     <tr>
-      <td align="center" colspan="6"><b><i>*Not arranged in no particular order*</i></b>.</td>
+      <td align="center" colspan="6"><b><i>*Not arranged in a particular order*</i></b>.</td>
     </tr>
   </tbody>
 </table>
