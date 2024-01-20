@@ -69,9 +69,7 @@
         </a>
       </td>
       <td align="center">
-        <code>
-          <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="Scala" width="70" height="70"/>
-        </code>
+      <code><img height="50" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
       </td>
       <td align="center">
         <a href="https://en.wikipedia.org/wiki/HTML5">
