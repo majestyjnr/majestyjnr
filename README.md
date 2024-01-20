@@ -69,9 +69,9 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.scala-lang.org/">
+        <code>
           <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="Scala" width="70" height="70"/>
-        </a>
+        </code>
       </td>
       <td align="center">
         <a href="https://en.wikipedia.org/wiki/HTML5">
