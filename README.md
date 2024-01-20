@@ -27,20 +27,16 @@
       <td align="center">
        <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
       </td>
-			<td align="center">
+      <td align="center">
        <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
       </td>
       <td align="center">
-        <a href="https://www.oracle.com/uk/database/technologies/">
-          <img src="https://pbs.twimg.com/profile_images/1448975437246255105/cc989Pmx_400x400.jpg" alt="Oracle Database" width="70" height="70"/>
-        </a>
+	<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://aws.amazon.com/">
-          <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" width="70" height="70"/>
-        </a>
+       <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
       </td>
       <td align="center">
         <a href="">
@@ -60,9 +56,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.python.org/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python" width="70" height="70"/> 
-        </a>
+   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
       </td>
       <td align="center">
         <a href="https://angular.io/">
