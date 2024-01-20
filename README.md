@@ -82,9 +82,9 @@
         </a>
       </td>
       <td align="center">
-        <code>
-          <img height="50" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-        </code>
+        <a>
+          <img height="70" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+        </a>
       </td>
     </tr>
     <tr>
