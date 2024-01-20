@@ -82,9 +82,9 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://en.wikipedia.org/wiki/JavaScript">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="70" height="70"/>
-        </a>
+        <code>
+          <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" width="70" height="70"/>
+        </code>
       </td>
     </tr>
     <tr>
