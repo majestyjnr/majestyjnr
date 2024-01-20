@@ -46,9 +46,9 @@
         </a>
       </td>
       <td align="center">
-        <code>
+        <a>
           <img src="https://www.jorgehernandezramirez.com/wp-content/uploads/2017/03/mongodb.png" alt="mongoDB" width="70" height="70"/>
-        </code
+        </a
       </td>
       <td align="center">
         <code>
