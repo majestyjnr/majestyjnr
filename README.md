@@ -40,9 +40,9 @@
       </td>
       <td align="center">
         <a href="">
-          <code>
+          <a>
             <img src="https://i1.wp.com/fileserialkey.com/wp-content/uploads/2019/07/2-2.png?fit=300%2C300&ssl=1" alt="MySQL SQL" width="70" height="70"/>
-          </code>
+          </a>
         </a>
       </td>
       <td align="center">
@@ -51,9 +51,9 @@
         </a
       </td>
       <td align="center">
-        <code>
+        <a>
           <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="70" height="70"/>
-        </code>
+        </a>
       </td>
       <td align="center">
         <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
