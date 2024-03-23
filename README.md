@@ -4,7 +4,7 @@
 
 <br/>
 <!--- 😄 Pronouns: ... --->
-##- ⚡ Fun fact: I code and listen to music every single day.
+## - ⚡ Fun fact: I code and listen to music every single day.
 <br/>
 
 <br/>
