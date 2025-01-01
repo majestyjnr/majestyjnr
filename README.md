@@ -14,7 +14,7 @@
 <br/>
 <div align="center"><img alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/></div>
 
-**<h1>My Skills:</h1>**  
+**<h1>My Technical Skills:</h1>**  
 
 <table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
