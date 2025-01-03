@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Developer Majesty. Welcome to my Github profile!
-
+ 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=3399ff&width=520&lines=Lead+Software+Engineer+at+Turbines+%E2%9C%8C%EF%B8%8F;Building+web+and+mobile+apps+with+passion%E2%9D%A4%EF%B8%8F">
 </p>
@@ -14,7 +14,7 @@
 <br/>
 <div align="center"><img alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/></div>
 
-**<h1>My Technical Skills:</h1>**  
+**<h1>My Skills:</h1>**  
 
 <table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
