@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Developer Majesty. Welcome to my Github profile!
  
-<p align="center">
+<p align="center" >
 <img src="https://readme-typing-svg.herokuapp.com?color=3399ff&width=520&lines=Lead+Software+Engineer+at+Turbines+%E2%9C%8C%EF%B8%8F;Building+web+and+mobile+apps+with+passion%E2%9D%A4%EF%B8%8F">
 </p>
 
