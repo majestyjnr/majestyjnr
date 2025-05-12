@@ -8,7 +8,7 @@
 
 <br/>
 <!--- 😄 Pronouns: ... --->
-<strong>⚡ Fun fact: I code and listen to music every single day.</strong>
+<strong>⚡ Fun fact: I code and listen to music almost every single day.</strong>
 <br/>
 
 <br/>
