@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=3399ff&width=520&lines=Lead+Software+Engineer+at+Turbines+%E2%9C%8C%EF%B8%8F;Building+web+and+mobile+apps+with+passion%E2%9D%A4%EF%B8%8F">
 </p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=majestyjnr&label=Views&color=blue&style=plastic" alt="majestyjnr" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=majestyjnr&label=Views&color=blue&style=plastic" alt="majestyjnr"/></p>
 
 <br/>
 <!--- 😄 Pronouns: ... --->
